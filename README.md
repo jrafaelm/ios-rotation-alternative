@@ -8,10 +8,10 @@ The scenario:
 I have one view controller and one view (.xib) for both landscape and portrait orientations,
 Each orientation have its particular layout as I show in the following pictures:
 
-![portrait](https://cloud.githubusercontent.com/assets/692036/14687583/dc721d86-0714-11e6-92c5-b24ebeb7209b.png)
+![portrait](https://cloud.githubusercontent.com/assets/692036/14687984/8b358fc8-0716-11e6-90f3-24d55302c751.png)
 Portrait
 
-![landscape](https://cloud.githubusercontent.com/assets/692036/14687693/4a021388-0715-11e6-9513-c7502981e12a.png)
+![landscape](https://cloud.githubusercontent.com/assets/692036/14687985/8b36f94e-0716-11e6-95ed-316dbde2206b.png)
 Landscape
 
 Using a previously defined naming pattern, designing the views became easier and
